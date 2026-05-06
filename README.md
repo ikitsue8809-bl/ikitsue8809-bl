@@ -63,7 +63,7 @@
 
 ## 🌐 Liens
 
-[![LinkBio](https://img.shields.io/badge/Link.bio-F7F5FF?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
+[![LinkBio](https://img.shields.io/badge/Link.bio-FFFFFF?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
 [![Discord](https://img.shields.io/badge/Discord-F7F5FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
 [![Instagram](https://img.shields.io/badge/Instagram-F7F5FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
 [![TikTok](https://img.shields.io/badge/TikTok-F7F5FF?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
